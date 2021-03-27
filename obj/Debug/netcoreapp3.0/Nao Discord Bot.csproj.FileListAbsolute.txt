@@ -1,0 +1,118 @@
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Nao Discord Bot.exe
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Nao Discord Bot.deps.json
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Nao Discord Bot.runtimeconfig.json
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Nao Discord Bot.runtimeconfig.dev.json
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Nao Discord Bot.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Nao Discord Bot.pdb
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\obj\Debug\netcoreapp3.0\Nao Discord Bot.csprojAssemblyReference.cache
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\obj\Debug\netcoreapp3.0\Nao Discord Bot.AssemblyInfoInputs.cache
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\obj\Debug\netcoreapp3.0\Nao Discord Bot.AssemblyInfo.cs
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\obj\Debug\netcoreapp3.0\Nao Discord Bot.csproj.CopyComplete
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\obj\Debug\netcoreapp3.0\Nao Discord Bot.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\obj\Debug\netcoreapp3.0\Nao Discord Bot.pdb
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Discord.Net.Commands.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Discord.Net.Core.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Discord.Net.Rest.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Discord.Net.Webhook.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Discord.Net.WebSocket.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\NetEscapades.Configuration.Yaml.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Linq.Async.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\YamlDotNet.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Reflection.Metadata.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Victoria.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\K4os.Compression.LZ4.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\K4os.Hash.xxHash.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\MySql.Data.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Ubiety.Dns.Core.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Zstandard.Net.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Connor\RiderProjects\Nao Discord Bot\Nao Discord Bot\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
